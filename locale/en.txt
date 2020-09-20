@@ -1,0 +1,22 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 555 14th Street
+
+## Media
+
+### Title
+panorama_CB37D66E_C1CD_1DD6_41E0_5C32E587D7F7.label = Entrance
+panorama_CB851084_C1CD_354A_41E3_AE4BF0962404.label = Bedroom 1
+panorama_CB868AFB_C1CD_2ABE_41DD_3E90A7E3D952.label = Bathroom
+panorama_CB86B40E_C1CD_1D56_41D6_A3A761DEA9FD.label = Bedroom 2
+panorama_CB86B7A6_C1CD_7B56_41DD_8E8589A79322.label = Kitchen
+panorama_CB86E158_C1CD_17FA_41E7_EEDD8D721E3B.label = Laundry Room
+panorama_CB86F48C_C1CD_3D5A_41B4_790EA2516FF0.label = Building Entrance
+panorama_CB874A59_C1CD_35FA_4162_5865A45AACE0.label = Hallway
+panorama_CB875DD0_C1CD_6ECA_41B4_3173C977BAC0.label = Living Room
