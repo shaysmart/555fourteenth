@@ -3,7 +3,6 @@
 ## Tour
 
 ### Description
-tour.description = RentingSF
 
 ### Title
 tour.name = 555 14th Street
